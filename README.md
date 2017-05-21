@@ -1,2 +1,2 @@
 # hello-world
-hello world repository for testing
+hello world repository for testing git. Therefore, ignore!
